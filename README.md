@@ -10,10 +10,6 @@ This is a simple Java-based price comparison tool that allows users to enter pro
 - **Compare prices**: Identifies the product with the best price per unit.
 - **Simple and user-friendly interface** using Java Swing.
 
-## Screenshots
-
-(Insert screenshot here if available)
-
 ## Prerequisites
 
 - Java 8 or later
